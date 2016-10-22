@@ -1,0 +1,46 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/stclaus/dev/" . "111/")
+ ("/home/stclaus/" . ".emacs.d/")
+ ("/home/stclaus/.emacs.d/elpa/" . "material-theme-20160908.1538/")
+ ("/home/stclaus/.emacs.d/" . "elpa/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/stclaus/.emacs.d/"
+ "/home/stclaus/dev/"
+ "/home/stclaus/dev/111/"
+ "/home/stclaus/dev/Kapow/"
+ "/home/stclaus/.emacs.d/elpa/material-theme-20160908.1538/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "test.py"
+ "app.py"
+ "material-light-theme.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/stclaus/.emacs.d/" (22539 8667 234728 370000) "elpa/" "auto-save-list/" "snippets/" "ido.last" "./" "settings/" "init.el" "../" "backups/" ".emacs" "init.el~")
+
+ ("/home/stclaus/dev/" (22539 8791 157309 29000) "todo/" "learn.txt" "odoo.v8/" "haskell/" "old.book.odoo/" "microblog/" "111/" "test.py" "NewBody/" "odoo/" "flsky-tut/" "./" "Kapow/" "book_odoo/" "../" "interactiveshares/" "django_bookmarks/" "flask-book/" "angularjs/" "flasky/" "odoo-book/" "zeromq-book/" "lytc/" "django-test-task/" "verifeed/" "home_money/")
+
+ ("/home/stclaus/dev/111/" (22539 8718 463968 413000) "data/" ".gitignore" "rctextapi/" "training_data/" "test_results/" "deprecated_REST_README.md" "article_process/" "scripts/" "article_classification.py" "fabfile.py" "./" "settings/" "../" "test_pipeline/" "companies_utils/" ".git/" "topic_model/" "app.py" "test_drivers/" "conf/" "README.md" "requirements.txt")
+
+ ("/home/stclaus/dev/Kapow/" (22539 7797 740657 851000) "data/" "config.py" ".#app.py" ".gitignore" "rctextapi/" "rotated.log" "training_data/" "test_results/" "deprecated_REST_README.md" "root_logger.pyc" "article_process/" "scripts/" "config.pyc" "env/" "article_classification.py" "fabfile.py" "./" "settings/" "../" "test_pipeline/" "log_parser/" "companies_utils/" "scraper/" ".git/" "topic_model/" "app.py" "test_drivers/" ".idea/" "fabfile.pyc" "article_classification.pyc" "conf/" "README.md" "requirements.txt")
+
+ ("/home/stclaus/.emacs.d/elpa/material-theme-20160908.1538/" (22539 7307 389371 926000) "material-light-theme.elc" "material-light-theme.el" "./" "../" "material-theme.el" "material-theme-pkg.el" "material-theme.elc" "material-theme-autoloads.el")
+
+ ("/home/stclaus/.emacs.d/elpa/" (22539 7306 498367 772000) "better-defaults-20160619.2308/" "./" "../" "gnupg/" "material-theme-20160908.1538/" "archives/")
+
+ ("/home/stclaus/" (22539 6689 91486 812000) ".bash_logout" ".ICEauthority" "1/" "logo.png" ".cryptoplugin/" "Изображения/" "Видео/" "Общедоступные/" ".FBReader/" "todo.org" "media/" ".Skype/" ".gnupg/" "Downloads/" ".cache/" "dev/" "./" "Загрузки/" "../" ".mplayer/" "Рабочий стол/" "Документы/" ".gnome/" "home/" ".ssh/" ".bashrc" "test.js" ".local/" ".mozilla/" ".esd_auth" "Музыка/" ".bash_history" ".node_repl_history" ".config/" ".emacs.d/" ".pki/" "Шаблоны/" ".gphoto/" ".bash_profile" ".dropbox-dist/" "todo.org~" ".dropbox/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
